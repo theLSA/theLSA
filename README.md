@@ -1,6 +1,6 @@
 # About Me
 
-- Cyber Security: Penetration testing, Incident Response.
+- Cyber Security: Penetration Testing, Incident Response.
 - Programmer: Python, JAVA, PHP, C/C++, Delphi.
 - CTF: web, misc.
 
